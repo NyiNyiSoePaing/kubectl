@@ -8,4 +8,4 @@
 
 ### Shell login
 
-- docker run -it nnsp/kubectl sh
+- docker run -it nnsp/kubectl sh 
